@@ -24,7 +24,10 @@
 }
 
 .table-cont{
+    float: left;
     margin: 10px;
+    margin-left: 50px;
+    width: fit-content;
 }
 
 .next-button{
@@ -36,9 +39,6 @@
     text-decoration: none;
     color: #000;
     padding: 0.2em 0.4em;
-    position: relative;
-    left: 970px;
-    bottom: 5px;
 }
 
 .back-button{
@@ -50,15 +50,10 @@
     text-decoration: none;
     color: #000;
     padding: 0.2em 0.4em;
-    position: relative;
-    right: 40px;
-    bottom: 5px;
 }
 
 .profile-img{
-    position: relative;
-    bottom: 70px;
-    left: 900px;;
+    float: right;
     width: 50px;
     background-repeat: no-repeat;
     background-position: 50%;
