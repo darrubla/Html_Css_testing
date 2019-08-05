@@ -1,3 +1,16 @@
+.box-content{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.header-title-box{
+    padding-bottom: 20px;
+}
+
+.header-title{
+    text-align: center;
+}
+
 .table{
     color: blueviolet;
     padding: 3px;
